@@ -1,0 +1,9 @@
+[submodule "Canada Movie Tracker/CanadaMovieTracker"]
+	path = Canada Movie Tracker/CanadaMovieTracker
+	url = https://github.com/Hadi1723/CanadaMovieTracker.git
+[submodule "Dining Philosopher Problem/DiningPhilisopherProblem"]
+	path = Dining Philosopher Problem/DiningPhilisopherProblem
+	url = https://github.com/Hadi1723/DiningPhilisopherProblem.git
+[submodule "Student Management Application/StudentManagementApplication"]
+	path = Student Management Application/StudentManagementApplication
+	url = https://github.com/Hadi1723/StudentManagementApplication.git
