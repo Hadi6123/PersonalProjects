@@ -19,3 +19,6 @@
 [submodule "PDF Generator/PDF_Generator_Console_App"]
 	path = PDF Generator/PDF_Generator_Console_App
 	url = https://github.com/Hadi1723/PDF_Generator_Console_App.git
+[submodule "McMaster Computer Science Requirements/McMaster_Computer_Science_Requirements"]
+	path = McMaster Computer Science Requirements/McMaster_Computer_Science_Requirements
+	url = https://github.com/Hadi6123/McMaster_Computer_Science_Requirements.git
