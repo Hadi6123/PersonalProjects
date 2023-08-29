@@ -22,3 +22,6 @@
 [submodule "McMaster Computer Science Requirements/McMaster_Computer_Science_Requirements"]
 	path = McMaster Computer Science Requirements/McMaster_Computer_Science_Requirements
 	url = https://github.com/Hadi6123/McMaster_Computer_Science_Requirements.git
+[submodule "WeatherApplication/WeatherApplication"]
+	path = WeatherApplication/WeatherApplication
+	url = https://github.com/Hadi6123/WeatherApplication.git
