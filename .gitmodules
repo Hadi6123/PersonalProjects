@@ -25,3 +25,9 @@
 [submodule "WeatherApplication/WeatherApplication"]
 	path = WeatherApplication/WeatherApplication
 	url = https://github.com/Hadi6123/WeatherApplication.git
+[submodule "QRScanner/QRScanner"]
+	path = QRScanner/QRScanner
+	url = https://github.com/Hadi6123/QRScanner.git
+[submodule "TranslatorApp/TranslatorApplication"]
+	path = TranslatorApp/TranslatorApplication
+	url = https://github.com/Hadi6123/TranslatorApplication.git
