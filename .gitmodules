@@ -10,3 +10,6 @@
 [submodule "MP3 Player/MP3-Player"]
 	path = MP3 Player/MP3-Player
 	url = https://github.com/Hadi6123/MP3-Player.git
+[submodule "TaskList/TaskList"]
+	path = TaskList/TaskList
+	url = https://github.com/Hadi6123/TaskList.git
