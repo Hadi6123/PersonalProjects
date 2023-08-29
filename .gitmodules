@@ -16,3 +16,6 @@
 [submodule "Student Library Problem/StudentLibraryProblem"]
 	path = Student Library Problem/StudentLibraryProblem
 	url = https://github.com/Hadi6123/StudentLibraryProblem.git
+[submodule "PDF Generator/PDF_Generator_Console_App"]
+	path = PDF Generator/PDF_Generator_Console_App
+	url = https://github.com/Hadi1723/PDF_Generator_Console_App.git
