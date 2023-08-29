@@ -7,3 +7,6 @@
 [submodule "Student Management Application/StudentManagementApplication"]
 	path = Student Management Application/StudentManagementApplication
 	url = https://github.com/Hadi1723/StudentManagementApplication.git
+[submodule "MP3 Player/MP3-Player"]
+	path = MP3 Player/MP3-Player
+	url = https://github.com/Hadi6123/MP3-Player.git
